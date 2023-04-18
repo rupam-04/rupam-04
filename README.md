@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/trixxycore" target="blank"><img src="https://img.shields.io/twitter/follow/trixxycore?logo=twitter&style=for-the-badge" alt="trixxycore" /></a> </p>
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Logic, C++**
 

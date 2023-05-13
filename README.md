@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Logic, C++**
+- 💬 Ask me about **Logic, Math**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
